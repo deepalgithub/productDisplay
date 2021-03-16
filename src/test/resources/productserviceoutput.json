@@ -1,0 +1,71 @@
+[
+    {
+        "productId": 1,
+        "productName": "Product1",
+        "productDescription": "This is Product1",
+        "price": {
+            "amount": 100,
+            "currency": "EUR"
+        },
+        "pricesInOtherCurrencies": [
+            {
+                "amount": 127,
+                "currency": "GBP"
+            },
+            {
+                "amount": 227,
+                "currency": "USD"
+            },
+            {
+                "amount": 27,
+                "currency": "INR"
+            }
+        ]
+    },
+    {
+        "productId": 2,
+        "productName": "Product2",
+        "productDescription": "This is Product2",
+        "price": {
+            "amount": 200,
+            "currency": "EUR"
+        },
+        "pricesInOtherCurrencies": [
+            {
+                "amount": 254,
+                "currency": "GBP"
+            },
+            {
+                "amount": 454,
+                "currency": "USD"
+            },
+            {
+                "amount": 54,
+                "currency": "INR"
+            }
+        ]
+    },
+    {
+        "productId": 3,
+        "productName": "Product3",
+        "productDescription": "This is Product3",
+        "price": {
+            "amount": 300,
+            "currency": "EUR"
+        },
+        "pricesInOtherCurrencies": [
+            {
+                "amount": 381,
+                "currency": "GBP"
+            },
+            {
+                "amount": 681,
+                "currency": "USD"
+            },
+            {
+                "amount": 81,
+                "currency": "INR"
+            }
+        ]
+    }
+]
